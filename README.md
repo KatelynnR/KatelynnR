@@ -1,6 +1,6 @@
 
 *Hello, my name is Katelynn and I'm a student learning Data Analytics*  
-*My main language is Python, though I have experience in:*
+*My main language is **Python**, though I have experience in:*
 - *C#*
 - *HTML*
 - *R*
